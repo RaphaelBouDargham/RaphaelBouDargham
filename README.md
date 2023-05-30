@@ -1,5 +1,6 @@
 ### Rapha Dargham
 
-- 🔭 Hoje trabalho com Gestão de Acessos 👌
-- 🌱 Estudando sql e python 🫡
+- 🔭 Trabalhando com Gestão de Acessos👌
+- 🌱 sql e python 🫡
+- 🚀 Cursando Ciência de Dados
 - 😄 Pronouns: ele/dele
