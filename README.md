@@ -1,4 +1,4 @@
-### Olá! Eu sou o Raphael Bou Dargham
+### Rapha Dargham
 
 - 🔭 Hoje trabalho com Gestão de Acessos 👌
 - 🌱 Estudando sql e python 🫡
